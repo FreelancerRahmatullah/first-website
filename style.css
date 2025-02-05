@@ -1,9 +1,10 @@
 body{
+    margin: 0px;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 h1{
-    font-size: 30px;
+    font-size: 35px;
 }
 .name-highlight{
     color: orange;
@@ -16,4 +17,11 @@ h1{
 }
 .half-width img{
     width: 100%;
+}
+.top-bannar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
