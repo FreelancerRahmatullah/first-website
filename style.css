@@ -1,4 +1,39 @@
 *{
-    margin:0;
+    margin: 0;
     padding: 0;
 }
+.body{
+    background-color: rgb(236, 242, 245);
+    height: 1000px;
+    width: 700px;
+    margin: 20px auto;
+}
+.container{
+    display: flex;
+    justify-content: right;
+
+    
+  
+}
+
+.part-1{
+    width: 45%;
+    height: 50px;
+    text-align: center;
+    justify-content: right;
+
+
+    
+}
+.part-2{
+    width: 45%;
+    text-align: left;
+}
+
+img{
+
+    width: 35%;
+    height: auto;
+    margin-top: 10px;  
+    text-align: right;
+ }
